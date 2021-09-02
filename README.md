@@ -1,2 +1,1 @@
-# Artigos-Fotos-C_Goi-s
-Artigos e Imagens 
+# Artigos- Imagens C_Goiás
